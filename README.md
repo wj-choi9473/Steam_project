@@ -3,8 +3,6 @@
 
 ### This project is only for an educational purpose.
 
-1. This project is only for an educational purpose.
-
 
 # Project structure:
 1. Scraping 
