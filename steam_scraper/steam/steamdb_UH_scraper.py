@@ -28,7 +28,7 @@ def load_split_applist(n=100):
     Load list of game appids and break a list into chunks of size n
     n: size N to chunk, defalut = 100
     """
-    appids = pd.read_pickle("/Users/wonjae/Google Drive/steam_project/data/crawled_data/applist.pickle")["appid"]
+    appids = pd.read_pickle("../../../../steam_project/data/crawled_data/applist.pickle")["appid"]
     appids_ls = list(split_list(appids, n))
     return appids_ls
 
