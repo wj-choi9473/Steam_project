@@ -36,12 +36,13 @@ For my personal project, I researched impact of COVID-19 on game industry. Using
 
 - Hannah Ritchie, Edouard Mathieu, Lucas Rodés-Guirao, Cameron Appel, Charlie Giattino, Esteban Ortiz-Ospina, Joe Hasell, Bobbie Macdonald, Diana Beltekian and Max Roser (2020) - "Coronavirus Pandemic (COVID-19)". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/coronavirus' [Online Resource]
 
-`Main findings`
+`Main findings` 
+[notebook](https://github.com/wj-choi9473/Steam_project/blob/main/data_analysis/2.Research.ipynb)
 - COVID-19 has impacted positive effect (increase in number of game players)
 on game industry.
 - Among characteristics of games, multi-playable games have largest impact.
 - However, due to the desire of playing with others, discount effect of multi-playable games is not effective compared to other genres that are significant.
-
+    - note: visualization using plotly does not appear 
 
 ### Structure
 ```
