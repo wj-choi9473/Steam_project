@@ -40,7 +40,7 @@ For my personal project, I researched impact of COVID-19 on game industry. Using
 
 `Impact of the COVID-19 Pandemic on Consumer Demand and Price Discount in the Game Industry`  
 
-[Code and detail of analysis](https://github.com/wj-choi9473/Steam_project/blob/main/data_analysis/2.Research.ipynb)  
+[Code and detail of analysis](https://github.com/wj-choi9473/Steam_project/blob/main/data_analysis/1.Research.ipynb)  
 
 The coronavirus (COVID-19) pandemic’s stay-at-home order and quarantine have led to a great impact on an individual's physical and mental health as well as a lot of industries. However, the game industry has not been closely examined. This research analyzes data from Steam, the biggest digital game distribution platform. According to empirical evidence, the COVID-19 outbreak significantly increased the demand for games, especially multiplayer games. Moreover, results show that there is an additional discount effect under COVID-19 among different characteristics of games. 
 
