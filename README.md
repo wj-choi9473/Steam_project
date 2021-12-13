@@ -36,13 +36,16 @@ For my personal project, I researched impact of COVID-19 on game industry. Using
 
 - Hannah Ritchie, Edouard Mathieu, Lucas Rodés-Guirao, Cameron Appel, Charlie Giattino, Esteban Ortiz-Ospina, Joe Hasell, Bobbie Macdonald, Diana Beltekian and Max Roser (2020) - "Coronavirus Pandemic (COVID-19)". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/coronavirus' [Online Resource]
 
-`Main findings` 
-[notebook](https://github.com/wj-choi9473/Steam_project/blob/main/data_analysis/2.Research.ipynb)
-- COVID-19 has impacted positive effect (increase in number of game players)
-on game industry.
-- Among characteristics of games, multi-playable games have largest impact.
-- However, due to the desire of playing with others, discount effect of multi-playable games is not effective compared to other genres that are significant.
-    - note: visualization using plotly does not appear 
+### My subject for Analysis
+
+`Impact of the COVID-19 Pandemic on Consumer Demand and Price Discount in the Game Industry`  
+
+[Code and detail of analysis](https://github.com/wj-choi9473/Steam_project/blob/main/data_analysis/2.Research.ipynb)  
+
+The coronavirus (COVID-19) pandemic’s stay-at-home order and quarantine have led to a great impact on an individual's physical and mental health as well as a lot of industries. However, the game industry has not been closely examined. This research analyzes data from Steam, the biggest digital game distribution platform. According to empirical evidence, the COVID-19 outbreak significantly increased the demand for games, especially multiplayer games. Moreover, results show that there is an additional discount effect under COVID-19 among different characteristics of games. 
+
+
+
 
 ### Structure
 ```
